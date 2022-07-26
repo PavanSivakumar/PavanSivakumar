@@ -1,4 +1,4 @@
-- Hi, I’m @PavanSivakumar
+- Hi, I’m PavanSivakumar
 - SAP Fullstack Techno Functional consultant
 
 
